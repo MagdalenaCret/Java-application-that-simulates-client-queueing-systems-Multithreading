@@ -2,6 +2,12 @@
 
 A Java application that simulates client queueing systems and implements strategies to minimize waiting time.
 
+<div align="center">
+  <p>
+    <img src="image_presentation.png" width="300" alt="Presentation App"/>
+  </p>
+</div>
+
 ## 🌟 Features
 
 - Interactive GUI for parameter input
