@@ -4,7 +4,7 @@ A Java application that simulates client queueing systems and implements strateg
 
 <div align="center">
   <p>
-    <img src="image_presentation.png" width="300" alt="Presentation App"/>
+    <img src="image_presentation.png" width="500" alt="Presentation App"/>
   </p>
 </div>
 
