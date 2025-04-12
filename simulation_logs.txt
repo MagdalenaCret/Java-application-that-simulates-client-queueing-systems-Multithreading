@@ -1,0 +1,124 @@
+
+Time: 0
+Waiting clients: (id=4, arrive=2, period=5); (id=1, arrive=3, period=5); (id=2, arrive=3, period=3); (id=3, arrive=3, period=6); (id=5, arrive=4, period=3); (id=6, arrive=4, period=5); (id=7, arrive=4, period=6); 
+Queue 1: Closed (No Clients)
+Queue 2: Closed (No Clients)
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 1
+Waiting clients: (id=4, arrive=2, period=5); (id=1, arrive=3, period=5); (id=2, arrive=3, period=3); (id=3, arrive=3, period=6); (id=5, arrive=4, period=3); (id=6, arrive=4, period=5); (id=7, arrive=4, period=6); 
+Queue 1: Closed (No Clients)
+Queue 2: Closed (No Clients)
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 2
+Waiting clients: (id=1, arrive=3, period=5); (id=2, arrive=3, period=3); (id=3, arrive=3, period=6); (id=5, arrive=4, period=3); (id=6, arrive=4, period=5); (id=7, arrive=4, period=6); 
+Queue 1: (id=4, arrive=2, period=5); 
+Queue 2: Closed (No Clients)
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 3
+Waiting clients: (id=5, arrive=4, period=3); (id=6, arrive=4, period=5); (id=7, arrive=4, period=6); 
+Queue 1: (id=4, arrive=2, period=4); 
+Queue 2: (id=1, arrive=3, period=5); 
+Queue 3: (id=2, arrive=3, period=3); 
+Queue 4: (id=3, arrive=3, period=6); 
+Queue 5: Closed (No Clients)
+
+Time: 4
+Waiting clients: 
+Queue 1: (id=4, arrive=2, period=3); (id=6, arrive=4, period=5); 
+Queue 2: (id=1, arrive=3, period=4); (id=7, arrive=4, period=6); 
+Queue 3: (id=2, arrive=3, period=2); 
+Queue 4: (id=3, arrive=3, period=5); 
+Queue 5: (id=5, arrive=4, period=3); 
+
+Time: 5
+Waiting clients: 
+Queue 1: (id=4, arrive=2, period=2); (id=6, arrive=4, period=5); 
+Queue 2: (id=1, arrive=3, period=3); (id=7, arrive=4, period=6); 
+Queue 3: (id=2, arrive=3, period=1); 
+Queue 4: (id=3, arrive=3, period=4); 
+Queue 5: (id=5, arrive=4, period=2); 
+
+Time: 6
+Waiting clients: 
+Queue 1: (id=4, arrive=2, period=1); (id=6, arrive=4, period=5); 
+Queue 2: (id=1, arrive=3, period=2); (id=7, arrive=4, period=6); 
+Queue 3: Closed (No Clients)
+Queue 4: (id=3, arrive=3, period=3); 
+Queue 5: (id=5, arrive=4, period=1); 
+
+Time: 7
+Waiting clients: 
+Queue 1: (id=6, arrive=4, period=5); 
+Queue 2: (id=1, arrive=3, period=1); (id=7, arrive=4, period=6); 
+Queue 3: Closed (No Clients)
+Queue 4: (id=3, arrive=3, period=2); 
+Queue 5: Closed (No Clients)
+
+Time: 8
+Waiting clients: 
+Queue 1: (id=6, arrive=4, period=4); 
+Queue 2: (id=7, arrive=4, period=6); 
+Queue 3: Closed (No Clients)
+Queue 4: (id=3, arrive=3, period=1); 
+Queue 5: Closed (No Clients)
+
+Time: 9
+Waiting clients: 
+Queue 1: (id=6, arrive=4, period=3); 
+Queue 2: (id=7, arrive=4, period=5); 
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 10
+Waiting clients: 
+Queue 1: (id=6, arrive=4, period=2); 
+Queue 2: (id=7, arrive=4, period=4); 
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 11
+Waiting clients: 
+Queue 1: (id=6, arrive=4, period=1); 
+Queue 2: (id=7, arrive=4, period=3); 
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 12
+Waiting clients: 
+Queue 1: Closed (No Clients)
+Queue 2: (id=7, arrive=4, period=2); 
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 13
+Waiting clients: 
+Queue 1: Closed (No Clients)
+Queue 2: (id=7, arrive=4, period=1); 
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Time: 14
+Waiting clients: 
+Queue 1: Closed (No Clients)
+Queue 2: Closed (No Clients)
+Queue 3: Closed (No Clients)
+Queue 4: Closed (No Clients)
+Queue 5: Closed (No Clients)
+
+Average Waiting Time: 1.2857142857142858
+Average Service Time: 4.714285714285714
+Peak Hour: 4
